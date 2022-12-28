@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.csv
+*.doc
+*.docx
+/data/docs/*
+*.rtf
+*.pptx

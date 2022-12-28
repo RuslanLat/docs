@@ -1,0 +1,6 @@
+aspose.words
+scikit-learn==1.1.3
+pymystem3
+matplotlib
+wordcloud
+stop_words
